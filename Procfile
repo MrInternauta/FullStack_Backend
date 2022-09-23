@@ -1,0 +1,1 @@
+web: java -jar -Dspring.profiles.active=pdn build/libs/RestApi-1.0.0.jar
